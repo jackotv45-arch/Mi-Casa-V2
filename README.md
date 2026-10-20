@@ -2,11 +2,18 @@
 
 Refonte premium parallèle à la v1. **Ne remplace pas** `Mi-Casa-Vercel`.
 
+## URLs
+
+| Page | URL |
+|------|-----|
+| App React (accueil) | https://mi-casa-v2.vercel.app/ |
+| **Landing immersive 3D** | https://mi-casa-v2.vercel.app/landing-immersive.html |
+
 ## Stack
 - React 19 + Vite + TypeScript
 - TanStack Router + Query
 - Tailwind CSS v4
-- Framer Motion
+- Framer Motion + Three.js / R3F
 - Supabase (nouveau projet)
 
 ## Setup local
